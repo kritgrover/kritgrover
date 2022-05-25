@@ -29,7 +29,7 @@
 <h3 align="center"> <b> GitHub Stats </b> </h3>
 <p> 
 <img width = "49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=algolia"/>
-<img width = "49%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Krit Grover Stats" />
+<img width = "49%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Krit Grover Stats" />
 </p>
 
 ###### All my Socials are present in the Link in Bio.

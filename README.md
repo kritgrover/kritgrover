@@ -13,6 +13,8 @@
   https://github.com/kritgrover/matrix-processor
   <li>Basic Encryption-Decryption</li>
   https://github.com/kritgrover/encrypt-decrypt
+  <li>Data Analysis</li>
+  https://github.com/kritgrover/data-analysis
 </ol>
 <p>And a few more that are yet to be added.</p>
 

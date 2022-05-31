@@ -18,7 +18,6 @@
   https://github.com/kritgrover/data-analysis
 </ol>
 <p>And a few more that are yet to be added.</p>
-<br/>
 
 <hr>
 

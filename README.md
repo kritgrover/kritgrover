@@ -40,7 +40,7 @@
 <br/>
 <p align="center"> 
   <img width = "46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=algolia"/ alt="Krit's Streak Stats">
-  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Krit Grover's Stats">
+  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&show_icons=true&theme=algolia" alt="Krit Grover's Stats">
   <br/>
   <br/>
   <img src = "https://github-profile-trophy.vercel.app/?username=kritgrover&theme=algolia" alt="Krit's Trophies"> 

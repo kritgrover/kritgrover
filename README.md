@@ -39,11 +39,14 @@
 <h3 align="center"> <b>GitHub Stats</b> </h3>
 <br/>
 <p align="center"> 
-  <img width = "46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=algolia"/ alt="Krit's Streak Stats">
-  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&show_icons=true&theme=algolia" alt="Krit Grover's Stats">
+  <img width=80% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritgrover&theme=github_dark" alt="Krit's Profile Summary">
   <br/>
   <br/>
-  <img src = "https://github-profile-trophy.vercel.app/?username=kritgrover&theme=algolia" alt="Krit's Trophies"> 
+  <img width = "46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=github-dark-blue"/ alt="Krit's Streak Stats">
+  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&show_icons=true&theme=github_dark" alt="Krit's Stats">
+  <br/>
+  <br/>
+  <img src = "https://github-profile-trophy.vercel.app/?username=kritgrover&theme=onestar" alt="Krit's Trophies"> 
   <br/>
   <br/>
 </p>

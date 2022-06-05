@@ -10,12 +10,22 @@
 <ol>
   <li>Text Editor</li>
   https://github.com/kritgrover/basic-text-editor
-  <li>Matrix Processor</li>
-  https://github.com/kritgrover/matrix-processor
-  <li>Basic Encryption-Decryption</li>
-  https://github.com/kritgrover/encrypt-decrypt
+  <br/>
+  <br/>
+  <li>Path Finding using a Maze</li>
+  https://github.com/kritgrover/path-finding
+  <br/>
+  <br/>
   <li>Data Analysis</li>
   https://github.com/kritgrover/data-analysis
+  <br/>
+  <br/>
+  <li>Matrix Processor</li>
+  https://github.com/kritgrover/matrix-processor
+  <br/>
+  <br/>
+  <li>Basic Encryption-Decryption</li>
+  https://github.com/kritgrover/encrypt-decrypt
 </ol>
 <p>And a few more that are yet to be added.</p>
 

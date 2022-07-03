@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <br/>
   <br/>
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritgrover&layout=compact&theme=github_dark" alt="Krit's Top Languages">
+  <br/>
+  <br/>
 </p>
 
 <hr>

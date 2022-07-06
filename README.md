@@ -4,7 +4,7 @@
 
 <h3 align="center"> <b> Few Things About Me </b> </h3>
 <br/>
-<p>I'm a Mathematics student at the University of Toronto, with a passion for Computer Science and Graphic Design. In the past 2 years I've learnt a lot about Data Science, Cybersecurity and Cloud Computing.</p>
+<p>I'm a Mathematics student at the University of Toronto, with a passion for Computer Science and Graphic Design.</p>
 
 <p>I'm currently learning about Blockchain and working on a few projects in Java and Python.</p>
 

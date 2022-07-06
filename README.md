@@ -2,7 +2,7 @@
 
 <h2 align="center">Welcome to My Github Profile!</h2>
 
-<h3 align="center"> <b> Few Things About Me </b> </h3>
+<h3 align="center"> <b>About Me</b> </h3>
 <br/>
 <p>I'm a Mathematics student at the University of Toronto, with a passion for Computer Science and Graphic Design.</p>
 

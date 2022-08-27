@@ -6,8 +6,6 @@
 <br/>
 <p>I'm a Mathematics student at the University of Toronto, with a passion for Computer Science and Graphic Design.</p>
 
-<p>I'm currently learning about Blockchain and working on a few projects in Java and Python.</p>
-
 <hr>
 
 <h3 align="center"> <b>Languages and Frameworks</b> </h3>

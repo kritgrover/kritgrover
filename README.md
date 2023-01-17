@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <br/>
   <br/>
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritgrover&layout=compact&theme=github_dark&env=PAT_1" alt="Krit's Top Languages">
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritgrover&layout=compact&theme=github_dark" alt="Krit's Top Languages">
   <br/>
   <br/>
 </p>
@@ -32,8 +32,8 @@
   <img width=80% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritgrover&theme=github_dark" alt="Krit's Profile Summary">
   <br/>
   <br/>
-  <img width = "46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=github-dark-blue&env=PAT_1"/ alt="Krit's Streak Stats">
-  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&show_icons=true&theme=github_dark&env=PAT_1" alt="Krit's Stats">
+  <img width = "46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=github-dark-blue"/ alt="Krit's Streak Stats">
+  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&show_icons=true&theme=github_dark" alt="Krit's Stats">
   <br/>
   <br/>
   <img src = "https://github-profile-trophy.vercel.app/?username=kritgrover&theme=onestar" alt="Krit's Trophies"> 

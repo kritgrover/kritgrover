@@ -4,7 +4,7 @@
 
 <h3 align="center"> <b>About Me</b> </h3>
 <br/>
-<p>I'm a first-year Computer Science and Mathematics student at the University of Toronto.</p>
+<p>I'm a second-year Computer Science and Mathematics student at the University of Toronto.</p>
 
 <hr>
 

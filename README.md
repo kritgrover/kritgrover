@@ -4,7 +4,11 @@
 
 <h3 align="center"> <b>About Me</b> </h3>
 <br/>
-<p>I'm a second-year Computer Science and Mathematics student at the University of Toronto.</p>
+<ul>
+  <li>I’m a second-year student at the University of Toronto specializing in Computer Science & majoring in Mathematics.</li>
+  <li>I'm currently a Software Engineering Fellow as part of the Major League Hacking Fellowship and also a Research Assistant at IAI Labs.</li>
+  <li>How to reach me: kritgrover@gmail.com.</li>
+</ul>
 
 <hr>
 
@@ -13,10 +17,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/swing%20-%231572B6.svg?&style=for-the-badge&logo=swing&logoColor=white" alt="Swing">
+  <img src="https://img.shields.io/badge/kotlin%20-%231572B6.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <br/>
   <br/>
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritgrover&layout=compact&theme=github_dark" alt="Krit's Top Languages">

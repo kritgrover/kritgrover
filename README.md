@@ -11,16 +11,18 @@
   <li>How to reach me: kritgrover@gmail.com.</li>
 </ul>
 <div align="center">
-  <a href="https://www.linkedin.com/in/kritgrover/" target="_blank"> <img src="https://img.shields.io/badge/-Krit Grover-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritgrover/" alt="LinkedIn"> </a>
-  <a href="https://kritgrover.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"> </a>
+  <a href="https://www.linkedin.com/in/kritgrover/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+  <a href="https://kritgrover.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=brown" alt="Website"> </a>
+  <a href="https://medium.com/@kritgrover" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=black&color=white" alt="Medium"> </a>
+  
 </div>
 
 <hr>
 <h3 align="center"> <b>My Top Projects</b> </h3>
-<a href="https://github.com/kritgrover/labgraph" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=labgraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LabGraph Vision"></a>
-<a href="https://github.com/kritgrover/htv-sustainu" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=htv-sustainu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SustainU"></a>
-<a href="https://github.com/kritgrover/steganography" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=steganography&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Steganography"></a>
-<a href="https://github.com/kritgrover/basic-text-editor" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=basic-text-editor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Text Editor"></a>
+<a href="https://github.com/kritgrover/labgraph" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=labgraph&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="LabGraph Vision"></a>
+<a href="https://github.com/kritgrover/htv-sustainu" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=htv-sustainu&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="SustainU"></a>
+<a href="https://github.com/kritgrover/steganography" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=steganography&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Steganography"></a>
+<a href="https://github.com/kritgrover/basic-text-editor" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=basic-text-editor&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Text Editor"></a>
 
 <hr>
 

@@ -6,7 +6,6 @@
 <br/>
 <ul>
   <li>I’m a second-year student at the University of Toronto specializing in Computer Science & majoring in Mathematics.</li>
-  <li>I recently finished my term as a Software Engineering Fellow as part of the Major League Hacking Fellowship.</li>
   <li>I am currently contributing to Meta's Open Source Research Project LabGraph, and also working on a thesis project revolving around detecting fear stimuli in mice using neural networks.</li>
   <li>How to reach me: kritgrover@gmail.com.</li>
 </ul>

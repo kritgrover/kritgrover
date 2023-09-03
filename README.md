@@ -6,9 +6,21 @@
 <br/>
 <ul>
   <li>I’m a second-year student at the University of Toronto specializing in Computer Science & majoring in Mathematics.</li>
-  <li>I'm currently a Software Engineering Fellow as part of the Major League Hacking Fellowship and also a Research Assistant at IAI Labs.</li>
+  <li>I recently finished my term as a Software Engineering Fellow as part of the Major League Hacking Fellowship.</li>
+  <li>I am currently contributing to Meta's Open Source Research Project LabGraph, and also working on a thesis project revolving around detecting fear stimuli in mice using neural networks.</li>
   <li>How to reach me: kritgrover@gmail.com.</li>
 </ul>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kritgrover/" target="_blank"> <img src="https://img.shields.io/badge/-Krit Grover-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kritgrover/" alt="LinkedIn"> </a>
+  <a href="https://kritgrover.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"> </a>
+</div>
+
+<hr>
+<h3 align="center"> <b>My Top Projects</b> </h3>
+<a href="https://github.com/kritgrover/labgraph" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=labgraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LabGraph Vision"></a>
+<a href="https://github.com/kritgrover/htv-sustainu" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=htv-sustainu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SustainU"></a>
+<a href="https://github.com/kritgrover/steganography" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=steganography&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Steganography"></a>
+<a href="https://github.com/kritgrover/basic-text-editor" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=basic-text-editor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Text Editor"></a>
 
 <hr>
 

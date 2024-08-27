@@ -5,8 +5,8 @@
 <h3 align="center"> <b>About Me</b> </h3>
 <br/>
 <ul>
-  <li>I’m a second-year student at the University of Toronto specializing in Computer Science & majoring in Mathematics.</li>
-  <li>I am currently contributing to Meta's Open Source Research Project LabGraph, and also working on a thesis project revolving around detecting fear stimuli in mice using neural networks.</li>
+  <li>I’m a third-year student at the University of Toronto double majoring in Computer Science & Mathematics.</li>
+  <li>I am currently working as a QA Analyst at theScore and as a Teaching Assistant at my university.</li>
   <li>How to reach me: kritgrover@gmail.com.</li>
 </ul>
 <div align="center">

@@ -11,7 +11,7 @@
 </ul>
 <div align="center">
   <a href="https://www.linkedin.com/in/kritgrover/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-  <a href="https://kritgrover.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=brown" alt="Website"> </a>
+  <a href="https://kritgrover.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=brown" alt="Website"> </a>
   <a href="https://medium.com/@kritgrover" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=black&color=white" alt="Medium"> </a>
   
 </div>
@@ -38,23 +38,6 @@
   <br/>
   <br/>
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritgrover&layout=compact&theme=github_dark" alt="Krit's Top Languages">
-  <br/>
-  <br/>
-</p>
-
-<hr>
-
-<h3 align="center"> <b>GitHub Stats</b> </h3>
-<br/>
-<p align="center"> 
-  <img width=80% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritgrover&theme=github_dark" alt="Krit's Profile Summary">
-  <br/>
-  <br/>
-  <img width = "46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=kritgrover&theme=github-dark-blue"/ alt="Krit's Streak Stats">
-  <img width = "46%" src="https://github-readme-stats.vercel.app/api?username=kritgrover&show_icons=true&theme=github_dark" alt="Krit's Stats">
-  <br/>
-  <br/>
-  <img src = "https://github-profile-trophy.vercel.app/?username=kritgrover&theme=onestar" alt="Krit's Trophies"> 
   <br/>
   <br/>
 </p>

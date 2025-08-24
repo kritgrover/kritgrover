@@ -5,7 +5,7 @@
 <h3 align="center"> <b>About Me</b> </h3>
 <br/>
 <ul>
-  <li>I’m a third-year student at the University of Toronto double majoring in Computer Science & Mathematics.</li>
+  <li>I’m a fourth year student at the University of Toronto double majoring in Computer Science & Mathematics.</li>
   <li>I am currently working as a QA Analyst at theScore and as a Teaching Assistant at my university.</li>
   <li>How to reach me: kritgrover@gmail.com.</li>
 </ul>

@@ -6,7 +6,7 @@
 <br/>
 <ul>
   <li>I’m a fourth year student at the University of Toronto double majoring in Computer Science & Mathematics.</li>
-  <li>I am currently working as a QA Analyst at theScore and as a Teaching Assistant at my university.</li>
+  <li>I am currently working as a Software Developer and as a Teaching Assistant.</li>
   <li>How to reach me: kritgrover@gmail.com.</li>
 </ul>
 <div align="center">

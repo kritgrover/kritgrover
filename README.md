@@ -19,9 +19,9 @@
 <hr>
 <h3 align="center"> <b>My Top Projects</b> </h3>
 <a href="https://github.com/kritgrover/labgraph" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=labgraph&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="LabGraph Vision"></a>
-<a href="https://github.com/kritgrover/htv-sustainu" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=htv-sustainu&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="SustainU"></a>
+<a href="https://github.com/kritgrover/iss-simulator" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=iss-simulator&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="ISS Communication Simulator"></a>
 <a href="https://github.com/kritgrover/steganography" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=steganography&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Steganography"></a>
-<a href="https://github.com/kritgrover/basic-text-editor" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=basic-text-editor&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="Text Editor"></a>
+<a href="https://github.com/kritgrover/myMusic" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=myMusic&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="myMusic"></a>
 
 <hr>
 

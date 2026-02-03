@@ -28,7 +28,29 @@
   </a>
 </div>
 
+<hr>
 
+<h3 align="center"><b>🚧 Current Projects</b></h3>
+
+<ul>
+  <li>
+    🎵 <b>myMusic</b>: a full-stack music application made with Flutter, Python and Spotify API for streaming and downloading songs from YouTube using a fuzzy search algorithm and yt-dlp.
+  </li>
+  <li>
+    🛰️ <b>ISS Communication Simulator</b>: a simulation of
+  <b>Delay-Tolerant Networks (DTNs)</b> for space communication, featuring
+  packet <b>fragmentation</b>, <b>encryption</b>, and <b>adaptive routing</b>.
+  The network topology dynamically adjusts in real time using
+  <b>orbital tracking</b> data, with link availability and latency modeled
+  and emulated via <b>Mininet</b>.
+  </li>
+  <li>
+    🧮 <b>TSP Benchmarking Suite</b>: benchmarking <b>quantum and classical optimization</b> methods to solve the Traveling Slaesman Problem in a unified, extendible framework.</li>
+  <li>
+    📡 <b>QAMOO for 6G Semantic Communications</b>: applying quantum-assisted multi-objective optimization
+    to resource allocation in 6G semantic communication models
+  </li>
+</ul>
 <hr>
 <h3 align="center"> <b>My Top Projects</b> </h3>
 <a href="https://github.com/kritgrover/labgraph" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kritgrover&repo=labgraph&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=true" alt="LabGraph Vision"></a>

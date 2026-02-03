@@ -1,20 +1,33 @@
-<h1 align = "center">Krit Grover</h1>
+<h1 align="center">Hi 👋, I'm Krit Grover</h1>
+<h3 align="center">Software Developer • CS & Math @ University of Toronto</h3>
 
-<h2 align="center">Welcome to My Github Profile!</h2>
+<p align="center">
+  I like building things that mix <b>clean engineering</b>, <b>math</b>, and <b>real-world impact</b>.
+</p>
 
-<h3 align="center"> <b>About Me</b> </h3>
-<br/>
+<hr/>
+
+<h3 align="center"><b>About Me</b></h3>
+
 <ul>
-  <li>I’m a fourth year student at the University of Toronto double majoring in Computer Science & Mathematics.</li>
-  <li>I am currently working as a Software Developer and as a Teaching Assistant.</li>
-  <li>How to reach me: kritgrover@gmail.com.</li>
+  <li>🎓 Fourth-year student at the University of Toronto double majoring in <b>Computer Science & Mathematics</b></li>
+  <li>💻 Currently working as a <b>Software Developer</b> @Roadpost and a <b>Teaching Assistant</b> @UofT</li>
+  <li>🧠 Interested in systems, backend engineering, quantum computing, and applied ML</li>
+  <li>📫 Reach me at: <b>kritgrover@gmail.com</b></li>
 </ul>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/kritgrover/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-  <a href="https://kritgrover.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=brown" alt="Website"> </a>
-  <a href="https://medium.com/@kritgrover" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=black&color=white" alt="Medium"> </a>
-  
+  <a href="https://www.linkedin.com/in/kritgrover/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kritgrover.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=brown" />
+  </a>
+  <a href="https://medium.com/@kritgrover" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=black&color=white" />
+  </a>
 </div>
+
 
 <hr>
 <h3 align="center"> <b>My Top Projects</b> </h3>

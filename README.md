@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krit Grover</h1>
-<h3 align="center">Software Developer • CS & Math @ University of Toronto</h3>
+<h3 align="center">Software Developer @Roadpost • CS & Math @University of Toronto</h3>
 
 <p align="center">
   I build systems at the intersection of <b>backend engineering</b>, <b>optimization</b>,

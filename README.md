@@ -11,7 +11,7 @@
 <h3 align="center"><b>About Me</b></h3>
 
 <ul>
-  <li>🎓 Incoming Graduate student at the University of Toronto specializing in Quantum Computing</li>
+  <li>🎓 Incoming M.Sc. student at the University of Toronto specializing in Quantum Computing</li>
   <li>💻 Currently working as a <b>Software Developer</b> @Roadpost and a <b>Teaching Assistant</b> @UofT</li>
   <li>🧠 Interests: distributed systems, backend architecture, quantum optimization, and applied ML</li>
   <li>📫 Reach me at: <b>kritgrover@gmail.com</b></li>
@@ -35,10 +35,11 @@
 
 <ul>
   <li>
-    🎵 <b>myMusic</b>: a full-stack music platform built with Flutter and Python,
-    integrating Spotify APIs and YouTube ingestion via <b>yt-dlp</b>,
-    featuring fuzzy search, metadata reconciliation, and backend-driven downloads.
+    📡 <b>QAMOO for 6G Semantic Communications</b>: applying
+    <b>quantum-assisted multi-objective optimization</b> to resource allocation
+    in next-generation semantic communication systems.
   </li>
+
   <li>
     🛰️ <b>ISS Communication Simulator</b>: a simulation of
     <b>Delay-Tolerant Networks (DTNs)</b> for space communication, featuring
@@ -47,16 +48,19 @@
     <b>orbital tracking</b> data, with link availability and latency modeled
     and emulated via <b>Mininet</b>.
   </li>
+  
+  <li>
+    🎵 <b>myMusic</b>: a full-stack music platform built with Flutter and Python,
+    integrating Spotify APIs and YouTube ingestion via <b>yt-dlp</b>,
+    featuring fuzzy search, metadata reconciliation, and backend-driven downloads.
+  </li>
+  
   <li>
     🧮 <b>TSP Benchmarking Suite</b>: a unified, extensible framework comparing
     <b>quantum</b> (QAOA, annealing) and <b>classical</b> (MST, brute force)
     approaches to the Traveling Salesman Problem.
   </li>
-  <li>
-    📡 <b>QAMOO for 6G Semantic Communications</b>: applying
-    <b>quantum-assisted multi-objective optimization</b> to resource allocation
-    in next-generation semantic communication systems.
-  </li>
+  
 </ul>
 
 <hr/>

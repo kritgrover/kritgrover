@@ -11,7 +11,7 @@
 <h3 align="center"><b>About Me</b></h3>
 
 <ul>
-  <li>🎓 Incoming M.Sc. student at the University of Toronto specializing in Quantum Computing</li>
+  <li>🎓 M.Sc. student at the University of Toronto specializing in Quantum Computing</li>
   <li>💻 Currently working as a <b>Software Developer</b> @Roadpost and a <b>Teaching Assistant</b> @UofT</li>
   <li>🧠 Interests: distributed systems, backend architecture, quantum optimization, and applied ML</li>
   <li>📫 Reach me at: <b>kritgrover@gmail.com</b></li>
